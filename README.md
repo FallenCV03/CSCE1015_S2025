@@ -3,6 +3,6 @@
 Assignment for Module 9 --- Version Control
 
 ## EUID
-am3287
+jav0281
 ## Favorite Professor
-asdf
+Prof. Mitchener
